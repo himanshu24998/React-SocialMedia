@@ -34,7 +34,7 @@ This project is a **social media application** built with **React** and **Vite**
 This will start the Vite development server and the app will be available at `http://localhost:5173`.
 
 ## Usage
-- **Create Post**: Click the button to create a new post and share your thoughts.
+- **Create Post**: Click the button to create a new post and share your thoughts
 - **View Posts**: All posts created by users will be displayed in a list.
 - **Sidebar Navigation**: The sidebar offers navigation options to move between different sections.
 - **Footer**: The footer contains additional information about the app.
